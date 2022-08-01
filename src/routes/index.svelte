@@ -50,6 +50,10 @@
 	};
 </script>
 
+<svelte:head>
+	<title>Jeffrey's DH Plate Identifier</title>
+</svelte:head>
+
 <h1 class="text-xl text-center font-semibold text-slate-800">UCI DH Who's who?</h1>
 
 <h2 class="text-lg text-center text-gray-600 mb-2">
