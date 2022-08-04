@@ -108,7 +108,10 @@
 <div class="mb-12 max-w-screen-sm w-11/12 mx-auto">
 	<h2 class="text-lg font-semibold my-4">Details</h2>
 
-	<div class="my-4">Add/remove categories with the buttons at the top.</div>
+	<div class="my-4">Add/remove categories with the buttons at the top. Tell your friends!</div>
+
+	<div class="my-4">Comments and feedback to jeff.charters at pm.me. Don't be mean. I am <a href="https://jeffdev.ca">looking
+	for web development work</a>, get in touch and we'll talk.</div>
 
 	<div class="my-4">
 		Limited functionality thus far, I know. But press (on a screen) or click-and-hold on a
