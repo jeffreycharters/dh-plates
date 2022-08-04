@@ -110,7 +110,7 @@
 
 	<div class="my-4">Add/remove categories with the buttons at the top. Tell your friends!</div>
 
-	<div class="my-4">Comments and feedback to jeff.charters at pm.me. Don't be mean. I am <a href="https://jeffdev.ca">looking
+	<div class="my-4">Comments and feedback to jeff.charters at pm.me. Don't be mean. I am <a href="https://jeffdev.ca" class="underline text-green-600">looking
 	for web development work</a>, get in touch and we'll talk.</div>
 
 	<div class="my-4">
